@@ -1,0 +1,18 @@
+html {
+  color: black;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+body {
+  background: black;
+}
+
+.hello-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: 'Courier New', monospace;
+  color: #568203;
+}
